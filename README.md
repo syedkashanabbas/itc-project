@@ -24,7 +24,7 @@ A modern, sleek web application for registering and searching for lost items. Th
   │   └── index.html      # Main SPA template
   └── static/             # Static assets (CSS/JS)
 ```
-
+kashanabbas checking
 ## How to Run Locally
 1. Ensure you have Python installed.
 2. Install Flask:
